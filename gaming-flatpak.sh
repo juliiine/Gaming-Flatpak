@@ -429,3 +429,4 @@ unset PASSWRD
 echo "Installation complète de Gaming-Flatpak."
 		;;
 esac
+
