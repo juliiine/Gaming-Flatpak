@@ -1,0 +1,8 @@
+0.2-alpha
+* New screen to choose what to install (zenity/kdialog/cli)
+* First pass to add support for config files
+* Add a log file
+* Fix a bug in installing Spotify on Debian 11 (I do not know how...)
+* New coding style : 2 spaces for [tab]
+
+0.1-alpha Initial release
