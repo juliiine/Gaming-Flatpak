@@ -11,6 +11,7 @@ Gaming multi distribution with Flatpak.
 ## Installation
 Grab the latest release ".tar.gz" from the right panel and decompress it.
 Either double-click the script "gaming-flatpak.sh" directly, or open a terminal in the script's folder and from there :
+
 `$ ./gaming-flatpak.sh`
 
 ## Options
