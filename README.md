@@ -2,9 +2,9 @@
 software group in Flatpak/AppImage
 
 ## Flatpak and Cie for gaming with fun. [ALPHA] / Flatpak pour le jeu [ALPHA]
-Gaming multi distribution with Flatpak.
+Gaming tools on many distributions as possible with Flatpak.
 
-`fr:` Les jeux sur les distributions avec Flatpak.
+`fr:` Les outils pour jouer sur le plus de distributions possible avec Flatpak.
 
 ## You need / Vous avez besoin de :
 
