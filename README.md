@@ -1,10 +1,12 @@
 # Gaming-Flatpak
-software group in Flatapk/AppIamge
+software group in Flatpak/AppImage
 
 ## Flatpak and Cie for gaming with fun. [ALPHA]
 Gaming multi distribution with Flatpak.
- ## You need:
-- #{Flatpak} = https://flatpak.org/setup/
+
+## You need:
+
+[Flatpak](https://flatpak.org/setup/)
 
 ## Installation
 Grab the latest release ".tar.gz" from the right panel and decompress it.
