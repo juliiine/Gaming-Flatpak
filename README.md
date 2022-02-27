@@ -37,7 +37,7 @@ Options :
 
 ## Features / Fonctionnalités
 * Install flatpaks, using a special selection for gaming on GNU/Linux.
-* `fr:` Installe les flatpaks, avec une sélection taillée pour le jeu sur GNUY/Linux.
+* `fr:` Installe les flatpaks, avec une sélection taillée pour le jeu sur GNU/Linux.
 * Support as much distributions as possible, if it can install flatpak.
 * `fr:` supporte la plus part des distributions ; tant qu'elles peuvent installer flatpak.
 * Interface for Gnome (Zenity), KDE (Kdialog) and Command line (Bash).
