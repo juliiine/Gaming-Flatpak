@@ -24,7 +24,7 @@ Soit vous double-clickez directement sur le script "gaming-flatpak.sh", soit vou
 ## Options
 ```
 $ ./gaming-flatpak.sh -h
-Usage : $0 [options]
+Usage : ./gaming-flatpak.sh [options]
 Install Flatpak packages for gaming
 
 Options :
