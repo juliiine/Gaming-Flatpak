@@ -3,7 +3,7 @@ Easy installation of gaming tools using Flatpak.
 
 `fr:` Installation facile d'outils pour le jeu grâce à Flatpak.
 
-## Flatpak and Cie for gaming with fun. [ALPHA] / Flatpak pour le jeu [ALPHA]
+## Flatpak for gaming [ALPHA] / Flatpak pour le jeu [ALPHA]
 A set of gaming tools easily installable on as many distributions as possible using Flatpak.
 
 `fr:` Les ensemble d'outils pour le jeu facilement installables sur le plus de distributions possibles grâce à Flatpak.
