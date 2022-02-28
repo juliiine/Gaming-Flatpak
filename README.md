@@ -1,10 +1,12 @@
 # Gaming-Flatpak
-software group in Flatpak/AppImage
+Easy installation of gaming tools using Flatpak.
+
+`fr:` Installation facile d'outils pour le jeu grâce à Flatpak.
 
 ## Flatpak and Cie for gaming with fun. [ALPHA] / Flatpak pour le jeu [ALPHA]
-Gaming tools on many distributions as possible with Flatpak.
+A set of gaming tools easily installable on as many distributions as possible using Flatpak.
 
-`fr:` Les outils pour jouer sur le plus de distributions possible avec Flatpak.
+`fr:` Les ensemble d'outils pour le jeu facilement installables sur le plus de distributions possibles grâce à Flatpak.
 
 ## You need / Vous avez besoin de :
 
