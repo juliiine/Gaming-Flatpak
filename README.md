@@ -23,6 +23,20 @@ Soit vous double-clickez directement sur le script "gaming-flatpak.sh", soit vou
 
 `$ ./gaming-flatpak.sh`
 
+## Features / Fonctionnalités
+* Install flatpaks, using a special selection for gaming on GNU/Linux.
+* `fr:` Installe les flatpaks, avec une sélection taillée pour le jeu sur GNU/Linux.
+* Support as much distributions as possible, if it can install flatpak.
+* `fr:` supporte la plus part des distributions ; tant qu'elles peuvent installer flatpak.
+* Interface for Gnome (Zenity), KDE (Kdialog) and Command line (Bash).
+* `fr:` Interface pour Gnome (Zenity), KDE (Kdialog) et la ligne de commande (Bash).
+![Gnome](img/gf-zenity.png)
+![KDE](img/gf-kdialog.png)
+![Cli](img/gf-cli.png)
+
+* Multi language support (currently French and mostly English)
+* `fr:` Support multi-langues (français et plus ou moins l'anglais)
+
 ## Options
 ```
 $ ./gaming-flatpak.sh -h
@@ -50,20 +64,6 @@ Options :
   -h, --help  Écrit cette aide
   -v, --version  Écrit la version et sort
 ```
-
-## Features / Fonctionnalités
-* Install flatpaks, using a special selection for gaming on GNU/Linux.
-* `fr:` Installe les flatpaks, avec une sélection taillée pour le jeu sur GNU/Linux.
-* Support as much distributions as possible, if it can install flatpak.
-* `fr:` supporte la plus part des distributions ; tant qu'elles peuvent installer flatpak.
-* Interface for Gnome (Zenity), KDE (Kdialog) and Command line (Bash).
-* `fr:` Interface pour Gnome (Zenity), KDE (Kdialog) et la ligne de commande (Bash).
-![Gnome](img/gf-zenity.png)
-![KDE](img/gf-kdialog.png)
-![Cli](img/gf-cli.png)
-
-* Multi language support (currently French and mostly English)
-* `fr:` Support multi-langues (français et plus ou moins l'anglais)
 
 ## Sources:
 - https://github.com/flathub/com.valvesoftware.Steam
