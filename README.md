@@ -24,6 +24,20 @@ Soit vous double-clickez directement sur le script "gaming-flatpak.sh", soit vou
 ## Options
 ```
 $ ./gaming-flatpak.sh -h
+Usage : $0 [options]
+Install Flatpak packages for gaming
+
+Options :
+  --gui    Force GUI  (default=zenity)
+  --gui=VAR  Choose 'zenity' or 'kdialog' for the GUI
+  --nogui    Text installation
+  -h, --help  Display this help
+  -v, --version  Display version and exit
+```
+
+`fr:`
+```
+$ ./gaming-flatpak.sh -h
 Utilisation : ./gaming-flatpak.sh [options]
 Installe des paquets Flatpak pour le jeu
 
