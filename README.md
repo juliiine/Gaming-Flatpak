@@ -65,12 +65,16 @@ Options :
   -v, --version  Écrit la version et sort
 ```
 
-## Sources:
-- https://github.com/flathub/com.valvesoftware.Steam
-- https://github.com/GloriousEggroll/proton-ge-custom
-- https://github.com/DavidoTek/ProtonUp-Qt
-- https://github.com/flathub/net.lutris.Lutris
-- https://github.com/tchx84/Flatseal
-- https://github.com/flightlessmango/MangoHud
-- https://github.com/flathub/com.discordapp.Discord
-- https://gitlab.com/CalcProgrammer1/OpenRGB
+## Flatpak Sources:
+- Steam: https://flathub.org/apps/details/com.valvesoftware.Steam
+- Proton-GE: https://github.com/flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE
+- ProtonUp-Qt: https://flathub.org/apps/details/net.davidotek.pupgui2
+- Lutris: https://github.com/flathub/net.lutris.Lutris
+- Flatseal: https://flathub.org/apps/details/com.github.tchx84.Flatseal
+- Mangohud: https://github.com/flathub/org.freedesktop.Platform.VulkanLayer.MangoHud
+- Discord: https://flathub.org/apps/details/com.discordapp.Discord
+- OpenRGB: https://flathub.org/apps/details/org.openrgb.OpenRGB
+- Spotify: https://flathub.org/apps/details/com.spotify.Client
+- OBS Studio: https://github.com/flathub/com.obsproject.Studio
+- Kdenlive: https://flathub.org/apps/details/org.kde.kdenlive
+- GtkStressTesting: https://flathub.org/apps/details/com.leinardi.gst
