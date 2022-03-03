@@ -6,7 +6,7 @@ Easy installation of gaming tools using Flatpak.
 ## Flatpak for gaming [ALPHA] / Flatpak pour le jeu [ALPHA]
 A set of gaming tools easily installable on as many distributions as possible using Flatpak.
 
-`fr:` Les ensemble d'outils pour le jeu facilement installables sur le plus de distributions possibles grâce à Flatpak.
+`fr:` Un ensemble d'outils pour le jeu facilement installables sur le plus de distributions possibles grâce à Flatpak.
 
 ## You need / Vous avez besoin de :
 
